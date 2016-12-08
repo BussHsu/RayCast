@@ -1,0 +1,16 @@
+﻿  Camera.cpp
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\MyColor.h(8): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\MyColor.h(9): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\MyColor.h(10): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\MyColor.h(11): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\define.h(7): warning C4005: 'INFINITY': macro redefinition
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+Camera.cpp(41): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Camera.cpp(44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  2 of 221 functions ( 0.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    8 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Assignment4.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Assignment4\Release\Assignment4.exe
+  Assignment4.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Assignment4\Release\Assignment4.pdb (Full PDB)

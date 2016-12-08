@@ -1,0 +1,7 @@
+﻿  main.cpp
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\mycolor.h(8): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\mycolor.h(9): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\mycolor.h(10): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\s9552\onedrive\文件\visual studio 2015\projects\assignment4\assignment4\mycolor.h(11): warning C4244: '=': conversion from 'float' to 'unsigned char', possible loss of data
+  Assignment4.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Assignment4\Debug\Assignment4.exe
+  Assignment4.vcxproj -> C:\Users\s9552\OneDrive\文件\Visual Studio 2015\Projects\Assignment4\Debug\Assignment4.pdb (Partial PDB)
